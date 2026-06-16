@@ -24,9 +24,7 @@ https://www.youtube.com/watch?v=LtcHVLkkxjk
 Multimodal RAG: Text, Images, Tables & Audio Pipeline
 https://www.youtube.com/watch?v=D5iKsvK7cXg
 
+-------------------------------------------------------------------------------------------------
+
 RAG3.0 Agency
 https://www.youtube.com/playlist?list=PLgy71-0-2-F14IUR3hh765J16Q-SrHHcq
-
-
-https://www.youtube.com/playlist?list=PLgy71-0-2-F14IUR3hh765J16Q-SrHHcq
----------------------------------------------------------------------------------------------
