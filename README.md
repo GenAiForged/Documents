@@ -82,10 +82,30 @@ https://leehanchung.github.io/blogs/2020/11/17/Document-Clustering-Evaluation/
  https://www.youtube.com/watch?v=yISaV2vp-Fk
 
 
+An Ultimate Compilation of AI Resources for Mathematics, Machine Learning and Deep Learning
+https://github.com/nivu/ai_all_resources
+
+
+Carnegie Mellon University Deep Learning
+https://www.youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW  === > home work discussion
+
+machine-learning- glossary
+https://developers.google.com/machine-learning/glossary
+
+
+CMU Fall 2023 Multimodal Machine Learning course (11-777) 
+https://www.youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW
+
+
+RL course form Huggingface
+https://huggingface.co/learn/deep-rl-course/unit0/introduction
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
  <Web>
+
+The Roadmap for Mastering Language Models in 2025
+https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/
 
 
