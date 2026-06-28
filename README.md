@@ -2,16 +2,12 @@
 
 ---------------------------------------------------------------------------------------------
 Policy Gradient in 30 min
-https://www.youtube.com/watch?v=26j1Cn8AECs
-A short video introduction to policy gradient methods (video link in original README; title/metadata unavailable from public search — using README description).
+  https://www.youtube.com/watch?v=26j1Cn8AECs
+  A short video introduction to policy gradient methods (video link in original README; title/metadata unavailable from public search — using README description).
 
 Playlist: Reinforcement Learning
-https://www.youtube.com/playlist?list=PLRYer4Da-4mJfRHI-1EIGNdhLsnwGPlz7
-A curated playlist of reinforcement learning tutorials covering core RL concepts and algorithms (playlist metadata inferred from README).
-
----------------------------------------------------------------------------------------------
-<June 2026>
----------------------------------------------------------------------------------------------
+  https://www.youtube.com/playlist?list=PLRYer4Da-4mJfRHI-1EIGNdhLsnwGPlz7
+  A curated playlist of reinforcement learning tutorials covering core RL concepts and algorithms (playlist metadata inferred from README).
 
 Category: Multimodal RAG / Retrieval-Augmented Generation (document, image, video RAG)
 - Multimodal RAG: Chat with PDFs (Images & Tables) [2025] — https://www.youtube.com/watch?v=uLrReyH5cu0
