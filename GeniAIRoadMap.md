@@ -96,6 +96,8 @@ A collection of tutorials and playlists covering multimodal retrieval-augmented 
   - Curated repository of learning resources covering math, ML, and deep learning topics for self-study.
 - Carnegie Mellon University Deep Learning (YouTube playlist) / CMU Fall 2023 Multimodal Machine Learning (11-777) — https://www.youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW
   - University lecture playlists for deep learning and multimodal ML course material.
+ - Reinforcement Learning by Zach  - https://www.youtube.com/playlist?list=PLRYer4Da-4mJfRHI-1EIGNdhLsnwGPlz7'
+  - Reinforcement Learning
 
 ---
 
