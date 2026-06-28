@@ -98,6 +98,8 @@ A collection of tutorials and playlists covering multimodal retrieval-augmented 
   - Curated repository of learning resources covering math, ML, and deep learning topics for self-study.
 - Carnegie Mellon University Deep Learning (YouTube playlist) / CMU Fall 2023 Multimodal Machine Learning (11-777) — https://www.youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW
   - University lecture playlists for deep learning and multimodal ML course material.
+- CSC321 - Introduction to Neural Networks and Machine Learning (University of Toronto, 2018) — https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/
+  - Foundational undergraduate course by Professor Roger Grosse covering neural networks, backpropagation, CNNs, RNNs, and practical ML optimization techniques with hands-on coding assignments.
 
 ---
 
