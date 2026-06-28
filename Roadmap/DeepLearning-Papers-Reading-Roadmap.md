@@ -2,16 +2,16 @@
 
 > A comprehensive reading roadmap of Deep Learning papers organized from outline to detail, old to state-of-the-art, and generic to specific areas.
 
-**Source:** Consolidated from GenAiForged/Deep-Learning-Papers-Reading-Roadmap
+**Source:** Consolidated from [GenAiForged/Deep-Learning-Papers-Reading-Roadmap](https://github.com/GenAiForged/Deep-Learning-Papers-Reading-Roadmap)
 
 ## Key Sections
 
 ### 1. Deep Learning History and Basics
-- **Book:** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "Deep learning" - MIT Press (2015)
-- **Survey:** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning" Nature 521.7553 (2015): 436-444
+- **Book:** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "[Deep learning](http://www.deeplearningbook.org/)" - MIT Press (2015)
+- **Survey:** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning" [Nature 521.7553 (2015): 436-444](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 - **DBN (Deep Belief Networks):** Hinton et al. (2006) - Milestone of Deep Learning
 - **ImageNet Evolution:** AlexNet (2012) - where deep learning broke out
-  - Krizhevsky, Sutskever, Hinton (2012)
+  - Krizhevsky, Sutskever, Hinton (2012) - [ImageNet Classification](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
   - VGGNet, GoogLeNet/Inception, ResNet (2014-2015)
 - **Speech Recognition Evolution:** Deep neural networks to end-to-end models (2012-2015)
 
@@ -37,4 +37,12 @@ The papers are organized following these principles:
 - From generic to specific areas
 - Focus on state-of-the-art developments
 
-**Full detailed reading roadmap available in:** https://github.com/GenAiForged/Deep-Learning-Papers-Reading-Roadmap
+**Full detailed reading roadmap available in:** [GenAiForged/Deep-Learning-Papers-Reading-Roadmap](https://github.com/GenAiForged/Deep-Learning-Papers-Reading-Roadmap)
+
+---
+
+## Related Resources
+- [Return to Roadmap Index](./README.md)
+- [DeepLearning Mastery Roadmap](./DeepLearning-Mastery-Roadmap.md)
+- [LLM Agents Papers](./LLM-Agents-Papers.md)
+- [Awesome Deep Learning Resources](./AwesomeDeepLearning-Resources.md)

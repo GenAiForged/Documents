@@ -15,12 +15,16 @@ Curated collection of AI & ML resources organized by topic:
 - Courses, playlists & compiled resources
 - Glossary & additional references
 
+**[View GeniAIRoadMap.md →](./GeniAIRoadMap.md)**
+
 ### 2. **DeepLearning-Papers-Reading-Roadmap.md**
 Structured reading guide for deep learning papers organized by:
 - Deep Learning history and basics
 - Core methods (optimization, unsupervised learning, RNNs, RL)
 - Applications (NLP, object detection, tracking, robotics, art)
 - Reading progression from foundational to state-of-the-art
+
+**[View DeepLearning-Papers-Reading-Roadmap.md →](./DeepLearning-Papers-Reading-Roadmap.md)**
 
 ### 3. **DeepLearning-Mastery-Roadmap.md**
 Personalized learning path covering:
@@ -30,6 +34,8 @@ Personalized learning path covering:
 - Advanced topics (normalization, meta-learning, attention)
 - Practical frameworks and tools
 
+**[View DeepLearning-Mastery-Roadmap.md →](./DeepLearning-Mastery-Roadmap.md)**
+
 ### 4. **LLM-Agents-Papers.md**
 Comprehensive compilation of papers on LLM-powered agents:
 - Cognitive architectures for agents
@@ -38,6 +44,8 @@ Comprehensive compilation of papers on LLM-powered agents:
 - Autonomous task solving (web, embodied, scientific)
 - Specialized applications (gaming, code, QA)
 - Benchmarks and evaluation
+
+**[View LLM-Agents-Papers.md →](./LLM-Agents-Papers.md)**
 
 ### 5. **AwesomeDeepLearning-Resources.md**
 Broad collection of learning materials:
@@ -49,43 +57,45 @@ Broad collection of learning materials:
 - Frameworks and tools
 - Key researchers in the field
 
+**[View AwesomeDeepLearning-Resources.md →](./AwesomeDeepLearning-Resources.md)**
+
 ## 🎯 How to Use This Repository
 
 ### For Beginners
-1. Start with **DeepLearning-Mastery-Roadmap.md** - Introductory Courses section
+1. Start with [**DeepLearning-Mastery-Roadmap.md**](./DeepLearning-Mastery-Roadmap.md) - Introductory Courses section
 2. Follow the architecture progression (CNN basics → Advanced models)
-3. Use **AwesomeDeepLearning-Resources.md** for additional course references
+3. Use [**AwesomeDeepLearning-Resources.md**](./AwesomeDeepLearning-Resources.md) for additional course references
 
 ### For Papers & Research
-1. Consult **DeepLearning-Papers-Reading-Roadmap.md** for structured paper collections
-2. Use **LLM-Agents-Papers.md** if focused on agent systems
-3. Reference **GeniAIRoadMap.md** for topic-specific deep dives
+1. Consult [**DeepLearning-Papers-Reading-Roadmap.md**](./DeepLearning-Papers-Reading-Roadmap.md) for structured paper collections
+2. Use [**LLM-Agents-Papers.md**](./LLM-Agents-Papers.md) if focused on agent systems
+3. Reference [**GeniAIRoadMap.md**](./GeniAIRoadMap.md) for topic-specific deep dives
 
 ### For AI Agents & LLMs
-1. **LLM-Agents-Papers.md** - Comprehensive agent architecture papers
-2. **GeniAIRoadMap.md** - Fine-tuning and LLM development resources
-3. **AwesomeDeepLearning-Resources.md** - NLP and Reinforcement Learning sections
+1. [**LLM-Agents-Papers.md**](./LLM-Agents-Papers.md) - Comprehensive agent architecture papers
+2. [**GeniAIRoadMap.md**](./GeniAIRoadMap.md) - Fine-tuning and LLM development resources
+3. [**AwesomeDeepLearning-Resources.md**](./AwesomeDeepLearning-Resources.md) - NLP and Reinforcement Learning sections
 
 ### For Specific Topics
-- **Computer Vision**: DeepLearning-Mastery-Roadmap (CNN Architectures section)
-- **NLP/Transformers**: GeniAIRoadMap (Transformers & attention section)
-- **Reinforcement Learning**: DeepLearning-Papers-Reading-Roadmap (Section 2.6)
-- **Generative Models**: DeepLearning-Mastery-Roadmap (GANs & VAE sections)
+- **Computer Vision**: [DeepLearning-Mastery-Roadmap.md](./DeepLearning-Mastery-Roadmap.md) (CNN Architectures section)
+- **NLP/Transformers**: [GeniAIRoadMap.md](./GeniAIRoadMap.md) (Transformers & attention section)
+- **Reinforcement Learning**: [DeepLearning-Papers-Reading-Roadmap.md](./DeepLearning-Papers-Reading-Roadmap.md) (Section 2.6)
+- **Generative Models**: [DeepLearning-Mastery-Roadmap.md](./DeepLearning-Mastery-Roadmap.md) (GANs & VAE sections)
 
 ## 📖 Key Resources by Domain
 
 ### Deep Learning Fundamentals
-- Deep Learning Bible: Bengio, Goodfellow, Courville
-- Interactive book: Dive into Deep Learning (d2l.ai)
-- Video courses: Fast.ai, Deeplearning.ai
+- **Deep Learning Bible**: [Bengio, Goodfellow, Courville - deeplearningbook.org](http://www.deeplearningbook.org/)
+- **Interactive book**: [Dive into Deep Learning - d2l.ai](https://d2l.ai/)
+- **Video courses**: [Fast.ai](https://www.fast.ai/), [Deeplearning.ai](https://www.deeplearning.ai/)
 
 ### Computer Vision
-- Stanford CS231n (Convolutional Neural Networks)
+- [Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 - Papers: AlexNet, VGGNet, ResNet, EfficientNet
 - Applications: Object detection, segmentation, tracking
 
 ### Natural Language Processing
-- Stanford CS224d (NLP with Deep Learning)
+- [Stanford CS224d - Deep Learning for NLP](http://cs224d.stanford.edu/)
 - Transformers, BERT, GPT family
 - Applications: Translation, QA, generation
 
@@ -97,19 +107,19 @@ Broad collection of learning materials:
 ### LLM Agents
 - ReAct, Tool use, Multi-agent systems
 - Web agents, Embodied agents, Scientific agents
-- See LLM-Agents-Papers.md for detailed paper lists
+- See [LLM-Agents-Papers.md](./LLM-Agents-Papers.md) for detailed paper lists
 
 ## 🔗 Connected Repositories
 
 These consolidated resources are drawn from:
-- `GenAiForged/awesome-deep-learning` - DL tutorials and resources
-- `GenAiForged/awesome-deep-learning-papers` - Most cited DL papers
-- `GenAiForged/Deep-Learning-Papers-Reading-Roadmap` - Structured paper roadmap
-- `GenAiForged/deep-learning-roadmap` - Personal mastery roadmap
-- `GenAiForged/awesome-language-agents` - Agent architecture papers
-- `GenAiForged/awesome-llm-powered-agent` - LLM agent papers
-- `GenAiForged/LLM-Agents-Papers` - Agent research papers
-- `GenAiForged/LLMAgentPapers` - Must-read agent papers
+- [**GenAiForged/awesome-deep-learning**](https://github.com/GenAiForged/awesome-deep-learning) - DL tutorials and resources
+- [**GenAiForged/awesome-deep-learning-papers**](https://github.com/GenAiForged/awesome-deep-learning-papers) - Most cited DL papers
+- [**GenAiForged/Deep-Learning-Papers-Reading-Roadmap**](https://github.com/GenAiForged/Deep-Learning-Papers-Reading-Roadmap) - Structured paper roadmap
+- [**GenAiForged/deep-learning-roadmap**](https://github.com/GenAiForged/deep-learning-roadmap) - Personal mastery roadmap
+- [**GenAiForged/awesome-language-agents**](https://github.com/GenAiForged/awesome-language-agents) - Agent architecture papers
+- [**GenAiForged/awesome-llm-powered-agent**](https://github.com/GenAiForged/awesome-llm-powered-agent) - LLM agent papers
+- [**GenAiForged/LLM-Agents-Papers**](https://github.com/GenAiForged/LLM-Agents-Papers) - Agent research papers (if exists)
+- [**GenAiForged/LLMAgentPapers**](https://github.com/GenAiForged/LLMAgentPapers) - Must-read agent papers (if exists)
 
 ## 📝 Contributing
 

@@ -2,13 +2,13 @@
 
 **Personal Learning Roadmap** - Customized for comprehensive deep learning mastery
 
-**Source:** GenAiForged/deep-learning-roadmap
+**Source:** [GenAiForged/deep-learning-roadmap](https://github.com/GenAiForged/deep-learning-roadmap)
 
 ## Introductory Courses
-- Deeplearning.ai courses by Andrew Ng
-- Fast.ai
-- Dive Into Deep Learning (d2l.ai)
-- Stanford's CS231n Class Notes
+- [Deeplearning.ai courses by Andrew Ng](https://www.deeplearning.ai/)
+- [Fast.ai](https://www.fast.ai/)
+- [Dive Into Deep Learning (d2l.ai)](https://d2l.ai/)
+- [Stanford's CS231n Class Notes](http://cs231n.github.io/)
 
 ## Core Architecture Progression
 
@@ -92,13 +92,21 @@
 - Adversarial robustness
 
 ## Practical Frameworks
-- PyTorch
-- TensorFlow/Keras
-- JAX
+- [PyTorch](https://pytorch.org/)
+- [TensorFlow/Keras](https://www.tensorflow.org/)
+- [JAX](https://github.com/google/jax)
 
 ## Resources
-- Mathematics for Machine Learning (MML book)
-- Stanford STATS 385 - Theories of Deep Learning
-- Andrej Karpathy's lectures and blog posts
+- [Mathematics for Machine Learning (MML book)](https://mml-book.github.io/)
+- [Stanford STATS 385 - Theories of Deep Learning](https://stats385.github.io/)
+- [Andrej Karpathy's lectures and blog posts](http://karpathy.github.io/)
 
-**Full comprehensive roadmap:** https://github.com/GenAiForged/deep-learning-roadmap
+**Full comprehensive roadmap:** [GenAiForged/deep-learning-roadmap](https://github.com/GenAiForged/deep-learning-roadmap)
+
+---
+
+## Related Resources
+- [Return to Roadmap Index](./README.md)
+- [Deep Learning Papers Reading Roadmap](./DeepLearning-Papers-Reading-Roadmap.md)
+- [LLM Agents Papers](./LLM-Agents-Papers.md)
+- [Awesome Deep Learning Resources](./AwesomeDeepLearning-Resources.md)

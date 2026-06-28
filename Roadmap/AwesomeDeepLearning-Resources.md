@@ -3,21 +3,21 @@
 **Comprehensive collection of learning materials for Deep Learning**
 
 **Sources:**
-- GenAiForged/awesome-deep-learning
-- GenAiForged/awesome-deep-learning-papers
-- GenAiForged/awesome-reproducible-research
+- [GenAiForged/awesome-deep-learning](https://github.com/GenAiForged/awesome-deep-learning)
+- [GenAiForged/awesome-deep-learning-papers](https://github.com/GenAiForged/awesome-deep-learning-papers)
+- [nivu/ai_all_resources](https://github.com/nivu/ai_all_resources)
 
 ## Books & Textbooks
 
 ### Foundational
-1. **Deep Learning** - Yoshua Bengio, Ian Goodfellow, Aaron Courville (2015)
-2. **Neural Networks and Deep Learning** - Michael Nielsen (2014)
-3. **Deep Learning** - Microsoft Research (2013)
-4. **Deep Learning Tutorial** - LISA lab, University of Montreal
+1. **[Deep Learning](http://www.deeplearningbook.org/)** - Yoshua Bengio, Ian Goodfellow, Aaron Courville (2015)
+2. **[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)** - Michael Nielsen (2014)
+3. **[Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)** - Microsoft Research (2013)
+4. **[Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)** - LISA lab, University of Montreal
 
 ### Applied & Practical
 - **Grokking Deep Learning for Computer Vision**
-- **Dive into Deep Learning** - Interactive, numpy-based
+- **[Dive into Deep Learning](https://d2l.ai/)** - Interactive, numpy-based
 - **Practical Deep Learning for Cloud, Mobile, and Edge**
 - **Math and Architectures of Deep Learning**
 - **Deep Learning with Python, Second Edition** - François Chollet
@@ -28,39 +28,39 @@
 ## Courses & Playlists
 
 ### University Lectures
-- Stanford CS231n - Convolutional Neural Networks for Visual Recognition (Fei-Fei Li, Andrej Karpathy)
-- Stanford CS224d - Deep Learning for NLP
-- MIT 6.S094 - Deep Learning for Self-Driving Cars
-- MIT 6.S191 - Introduction to Deep Learning
-- UC Berkeley CS 294 - Deep Reinforcement Learning
-- CMU 11-785 - Intro to Deep Learning
-- University of Amsterdam - Deep Learning Course
-- University of Toronto - Neural Networks and Machine Learning
+- [Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) (Fei-Fei Li, Andrej Karpathy)
+- [Stanford CS224d - Deep Learning for NLP](http://cs224d.stanford.edu/)
+- [MIT 6.S094 - Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+- [MIT 6.S191 - Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [UC Berkeley CS 294 - Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+- [CMU 11-785 - Intro to Deep Learning](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe)
+- [University of Amsterdam - Deep Learning Course](http://uvadlc.github.io)
+- [University of Toronto - Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 
 ### Online Platforms
-- **Coursera Deep Learning Specialization** - Andrew Ng
-- **Fast.ai** - Practical Deep Learning for Coders (Jeremy Howard)
-- **Deep Learning - Udacity/Google** (Vincent Vanhoucke)
-- **Keras in Motion** - Manning video course
-- **Spinning Up in Deep Reinforcement Learning** - OpenAI
-- **AI for Everyone** - Andrew Ng
+- **[Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** - Andrew Ng
+- **[Fast.ai](https://www.fast.ai/)** - Practical Deep Learning for Coders (Jeremy Howard)
+- **[Deep Learning - Udacity/Google](https://www.udacity.com/course/deep-learning--ud730)** (Vincent Vanhoucke)
+- **[Keras in Motion](https://www.manning.com/livevideo/keras-in-motion)** - Manning video course
+- **[Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/)** - OpenAI
+- **[AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/)** - Andrew Ng
 
 ### Specialized Topics
-- **Convolutional Neural Networks** - Stanford CS231n
-- **Neural Networks** - Université de Sherbrooke (Hugo Larochelle)
-- **Deep Learning for Natural Language Processing** - Stanford CS224d
-- **Machine Learning** - Stanford, Caltech, Carnegie Mellon
+- **[Convolutional Neural Networks](http://cs231n.github.io/)** - Stanford CS231n
+- **[Neural Networks](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)** - Université de Sherbrooke (Hugo Larochelle)
+- **[Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)** - Stanford CS224d
+- **[Machine Learning](https://www.coursera.org/learn/machine-learning)** - Stanford, Caltech, Carnegie Mellon
 
 ## Key Conference Proceedings
-- NIPS/NeurIPS
-- ICML
-- ICLR
-- CVPR
-- ICCV
-- ECCV
-- ACL
-- EMNLP
-- IJCAI
+- **[NeurIPS](https://nips.cc/)** (formerly NIPS)
+- **[ICML](https://icml.cc/)**
+- **[ICLR](https://iclr.cc/)**
+- **[CVPR](https://cvpr2024.thecvf.com/)**
+- **[ICCV](https://iccv2023.thecvf.com/)**
+- **[ECCV](https://eccv2024.ecva.net/)**
+- **[ACL](https://www.aclweb.org/)**
+- **[EMNLP](https://2024.emnlp.org/)**
+- **[IJCAI](https://ijcai.org/)**
 
 ## Research Areas
 
@@ -105,32 +105,40 @@
 - Flow-based models
 
 ## Datasets & Benchmarks
-- ImageNet
-- COCO
-- Pascal VOC
-- MNIST, CIFAR
-- SQuAD, GLUE
-- KITTI (autonomous driving)
+- **[ImageNet](http://www.image-net.org/)**
+- **[COCO](https://cocodataset.org/)**
+- **[Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)**
+- **[MNIST](http://yann.lecun.com/exdb/mnist/), [CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html)**
+- **[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/), [GLUE](https://gluebenchmark.com/)**
+- **[KITTI](http://www.cvlibs.net/datasets/kitti/)** (autonomous driving)
 - Various domain-specific benchmarks
 
 ## Frameworks & Tools
-- **TensorFlow/Keras** - Google's framework
-- **PyTorch** - Facebook's framework
-- **JAX** - NumPy-like differentiable computing
-- **Caffe** - Deep learning framework
-- **MXNet** - Scalable deep learning
-- **CNTK** - Microsoft Cognitive Toolkit
+- **[TensorFlow/Keras](https://www.tensorflow.org/)** - Google's framework
+- **[PyTorch](https://pytorch.org/)** - Facebook's framework
+- **[JAX](https://github.com/google/jax)** - NumPy-like differentiable computing
+- **[Caffe](http://caffe.berkeleyvision.org/)** - Deep learning framework
+- **[MXNet](https://mxnet.apache.org/)** - Scalable deep learning
+- **[CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)** - Microsoft Cognitive Toolkit
 
 ## Key Researchers
-- Geoffrey Hinton
-- Yann LeCun
-- Yoshua Bengio
-- Andrej Karpathy
-- Fei-Fei Li
-- Ian Goodfellow
-- Demis Hassabis (DeepMind)
+- **[Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ)**
+- **[Yann LeCun](https://scholar.google.ca/citations?user=k7QfrSsAAAAJ)**
+- **[Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ)**
+- **[Andrej Karpathy](https://karpathy.github.io/)**
+- **[Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)**
+- **[Ian Goodfellow](https://scholar.google.ca/citations?user=iYN86KEAAAAJ)**
+- **[Demis Hassabis](https://scholar.google.ca/citations?user=Osx6DmwAAAAJ)** (DeepMind)
 
 **Full collections:**
-- https://github.com/GenAiForged/awesome-deep-learning
-- https://github.com/GenAiForged/awesome-deep-learning-papers
-- https://github.com/nivu/ai_all_resources
+- [GenAiForged/awesome-deep-learning](https://github.com/GenAiForged/awesome-deep-learning)
+- [GenAiForged/awesome-deep-learning-papers](https://github.com/GenAiForged/awesome-deep-learning-papers)
+- [nivu/ai_all_resources](https://github.com/nivu/ai_all_resources)
+
+---
+
+## Related Resources
+- [Return to Roadmap Index](./README.md)
+- [Deep Learning Papers Reading Roadmap](./DeepLearning-Papers-Reading-Roadmap.md)
+- [Deep Learning Mastery Roadmap](./DeepLearning-Mastery-Roadmap.md)
+- [LLM Agents Papers](./LLM-Agents-Papers.md)
