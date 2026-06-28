@@ -1,7 +1,8 @@
 # Documents
 
 ---------------------------------------------------------------------------------------------
-Policy Gradient in 30 min 
+##Policy Gradient in 30 min 
+
 https://www.youtube.com/watch?v=26j1Cn8AECs
 https://www.youtube.com/playlist?list=PLRYer4Da-4mJfRHI-1EIGNdhLsnwGPlz7
 ---------------------------------------------------------------------------------------------
