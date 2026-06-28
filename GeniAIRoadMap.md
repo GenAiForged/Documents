@@ -85,19 +85,19 @@ A collection of tutorials and playlists covering multimodal retrieval-augmented 
 - MCP is not REST API — https://leehanchung.github.io/blogs/2025/05/17/mcp-is-not-rest-api/
   - Explains why Model Context Protocol (MCP) differs conceptually from REST and common pitfalls.
 - Claude Agent Skills: A First Principles Deep Dive — https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/
-  - Deep-dive analysis of Claude’s agent skill/extension model and how prompt-based meta-tools can extend capabilities.
+  - Deep-dive analysis of Claude's agent skill/extension model and how prompt-based meta-tools can extend capabilities.
 - Reasoning Series, Part 4: Reasoning with Compound AI Systems and Post-Training — https://leehanchung.github.io/blogs/2024/11/22/reasoning-agents-post-training/
   - Strategies to improve model reasoning through post-training approaches and system composition.
 
 ---
 
 ## Courses, playlists & compiled resources
+- ⭐ **[MUST DO]** Machine Learning Theory - Part 1: Introduction — https://mostafa-samir.github.io/ml-theory-pt1/
+  - Comprehensive introduction to machine learning theory covering fundamental concepts and foundations.
 - An Ultimate Compilation of AI Resources for Mathematics, Machine Learning and Deep Learning (GitHub) — https://github.com/nivu/ai_all_resources
   - Curated repository of learning resources covering math, ML, and deep learning topics for self-study.
 - Carnegie Mellon University Deep Learning (YouTube playlist) / CMU Fall 2023 Multimodal Machine Learning (11-777) — https://www.youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW
   - University lecture playlists for deep learning and multimodal ML course material.
- - Reinforcement Learning by Zach  - https://www.youtube.com/playlist?list=PLRYer4Da-4mJfRHI-1EIGNdhLsnwGPlz7'
-  - Reinforcement Learning
 
 ---
 
